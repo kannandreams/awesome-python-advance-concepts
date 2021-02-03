@@ -26,3 +26,7 @@ Examples in real use cases :
 
 1. Spark API
 2. Pandas Dataframe libraries
+
+
+**Builder pattern in Python**
+- Python doesn't support overloading constructors

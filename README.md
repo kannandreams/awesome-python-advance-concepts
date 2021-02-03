@@ -12,6 +12,12 @@
 * Concurrency
 * Metaclasses
 * Python Global Interpreter Lock (GIL)
+* Decorators
+* Iterators
+* 
+
+* Fast API
+* 
 
 
 **CREDITS**
@@ -20,7 +26,7 @@ Sincere Thanks :pray: :pray: to below pages that helps to learn , get expertise 
 
   * [Refactoring Guru] (https://refactoring.guru/)
   * [Builder Pattern example for data scientist] (https://towardsdatascience.com/3-great-design-patterns-for-data-science-workflows-d3bf162d74e6)
-  * 
+  * [Stackabuse] (https://stackabuse.com/creational-design-patterns-in-python/#builder)
 
 
 
