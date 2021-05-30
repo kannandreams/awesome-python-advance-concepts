@@ -1,4 +1,4 @@
-Python Advance TOPICS
+Python Advance Topics
 =====================
 
 * OOPS
@@ -32,6 +32,7 @@ Sincere Thanks :pray: :pray: to below pages that helps to learn , get expertise 
   * [Stackabuse] (https://stackabuse.com/creational-design-patterns-in-python/#builder)
   * [cs.unc.edu](http://www.cs.unc.edu/~stotts/GOF/hires/pat3cfso.htm)
   * [Chip Tsai Youtube Video](https://www.youtube.com/watch?v=4m7IuLM4wdw)
+
 
 
 
