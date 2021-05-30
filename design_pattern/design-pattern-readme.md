@@ -1,9 +1,9 @@
 Design Pattern
 =================
 
-Abstract Factory
+Simple Factory
 ----------------
-![Abstract factory example ](https://github.com/kannandreams/awesome-python-advance-concepts/blob/main/design_pattern/abstract_factory.png)
+![Abstract factory example ](https://github.com/kannandreams/awesome-python-advance-concepts/blob/main/design_pattern/simple_factory.png)
 
 Factory Method
 ----------------
