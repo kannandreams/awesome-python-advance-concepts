@@ -1,9 +1,7 @@
-# awesome-python-advance-concepts
-
-**TOPICS** 
+Python Advance TOPICS
+=====================
 
 * OOPS
-* Design Patterns
 * Code Optimization
 * Shorthands
 * Memory Management
@@ -20,11 +18,20 @@
 * 
 
 
-**CREDITS**
+| Topic  | Description |
+| ------------- | ------------- |
+| [Design Pattern](https://github.com/kannandreams/awesome-python-advance-concepts/blob/main/design_pattern/design-pattern-readme.md) |   |
 
+
+CREDITS
+========
 Sincere Thanks :pray: :pray: to below pages that helps to learn , get expertise and make this repo :writing_hand: * 
 
   * [Refactoring Guru] (https://refactoring.guru/)
   * [Builder Pattern example for data scientist] (https://towardsdatascience.com/3-great-design-patterns-for-data-science-workflows-d3bf162d74e6)
   * [Stackabuse] (https://stackabuse.com/creational-design-patterns-in-python/#builder)
+
+
+
+
 
