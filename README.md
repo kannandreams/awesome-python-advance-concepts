@@ -30,8 +30,8 @@ Sincere Thanks :pray: :pray: to below pages that helps to learn , get expertise 
   * [Refactoring Guru] (https://refactoring.guru/)
   * [Builder Pattern example for data scientist] (https://towardsdatascience.com/3-great-design-patterns-for-data-science-workflows-d3bf162d74e6)
   * [Stackabuse] (https://stackabuse.com/creational-design-patterns-in-python/#builder)
-
-
+  * [cs.unc.edu](http://www.cs.unc.edu/~stotts/GOF/hires/pat3cfso.htm)
+  * [Chip Tsai Youtube Video](https://www.youtube.com/watch?v=4m7IuLM4wdw)
 
 
 
