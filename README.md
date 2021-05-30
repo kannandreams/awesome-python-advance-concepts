@@ -1,4 +1,4 @@
-Python Advance TOPICS
+Python Advance Topics
 =====================
 
 * OOPS
