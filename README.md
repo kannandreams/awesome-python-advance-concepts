@@ -23,9 +23,8 @@ Python Advance Topics
 | [OOPS](https://github.com/kannandreams/awesome-python-advance-concepts/tree/main/oops) |   |
 | [Design Pattern](https://github.com/kannandreams/awesome-python-advance-concepts/blob/main/design_pattern/design-pattern-readme.md) |   |
 
-CREDITS
+REFERENCES
 ========
-Sincere Thanks :pray: :pray: to below pages that helps to learn , get expertise and make this repo :writing_hand: * 
 
   * [Refactoring Guru] (https://refactoring.guru/)
   * [Builder Pattern example for data scientist] (https://towardsdatascience.com/3-great-design-patterns-for-data-science-workflows-d3bf162d74e6)
